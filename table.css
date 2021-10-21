@@ -1,0 +1,38 @@
+*{
+	padding: 0px;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+h1{
+	font-size: 45px;
+    font-family: sans-serif;
+    margin-top: 4px;
+    border:groove;
+    border-width: 5px;
+    border-color:red blue green yellow;
+}
+
+table{
+	letter-spacing: 1px;
+	color: red;
+    border:solid;
+    border-color: black;
+    margin-bottom:100px;
+}
+
+td{
+	text-align: center;
+    font-family: sans-serif;
+}
+
+button{
+	border:none;
+	background: #753e3e;
+}
+
+@media only screen and (orientation: portrait){
+	*{
+		letter-spacing: 1px;
+	}
+}
