@@ -1,0 +1,17 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 20px;
+    width: 100%;
+    background-color: silver;
+    text-align: center;
+    color:black;
+ }
+ .container{
+    margin-top:  6%;
+    margin-left: 10%;
+    margin-right: 8%;
+    margin-bottom: 9%;
+
+}
+
